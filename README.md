@@ -14,3 +14,5 @@ OUTPUT
 Target: [ 1.63384     0.24096333  2.2       ]
 ```
 Point (1.63384, 0.24096333, 2.2) is above the plane defined by atoms 1, 2 and 4 at a distance of 2.2 angstrom
+
+If you prefer the atom o nthe other side of the plane then input a negative distance OR add --phase=-1.
